@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3598b4e2-97ed-4743-a3c2-7566150f4a68" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gradlePractice" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2km7yPemw7EghWr0MykgCBboBJw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TCS.executor": "Run",
+    "Gradle.Build gradlePractice.executor": "Run",
+    "Gradle.DELETETests.testDELETE_pet__petId_.executor": "Run",
+    "Gradle.PUTTests.executor": "Debug",
+    "Gradle.Test1.Test1 (1).executor": "Run",
+    "Gradle.Test1.Test1.executor": "Run",
+    "Gradle.Tets2.Hello.executor": "Run",
+    "Gradle.gradlePractice [:Main1.main()].executor": "Run",
+    "Gradle.gradlePractice [:ModifyExistingClass.main()].executor": "Run",
+    "Gradle.gradlePractice [:TCS.main()].executor": "Run",
+    "Gradle.gradlePractice [:TestCaseGenerator.main()].executor": "Run",
+    "Gradle.gradlePractice [:TestCaseGeneratorNew.main()].executor": "Run",
+    "Gradle.gradlePractice [assemble].executor": "Run",
+    "Gradle.gradlePractice [buildEnvironment].executor": "Run",
+    "Gradle.gradlePractice [build].executor": "Run",
+    "Gradle.gradlePractice [check].executor": "Run",
+    "Gradle.gradlePractice [classes].executor": "Run",
+    "Gradle.gradlePractice [clean].executor": "Run",
+    "Gradle.gradlePractice [compileTestJava].executor": "Run",
+    "Gradle.gradlePractice [copyTestngXml].executor": "Run",
+    "Gradle.gradlePractice [dependencyInsight].executor": "Run",
+    "Gradle.gradlePractice [jar].executor": "Run",
+    "Gradle.gradlePractice [packageJarWithDependencies].executor": "Run",
+    "Gradle.gradlePractice [properties].executor": "Run",
+    "Gradle.gradlePractice [publishToMavenLocal].executor": "Run",
+    "Gradle.gradlePractice [publish].executor": "Run",
+    "Gradle.gradlePractice [runTests].executor": "Run",
+    "Gradle.gradlePractice [run].executor": "Run",
+    "Gradle.gradlePractice [shadowJar].executor": "Run",
+    "Gradle.gradlePractice [tasks].executor": "Run",
+    "Gradle.gradlePractice [testClasses].executor": "Run",
+    "Gradle.gradlePractice [test].executor": "Run",
+    "Gradle.gradlePractice [wrapper].executor": "Run",
+    "Gradle.gradlePractice.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/susheel.mahobia/OneDrive - Gemini Solutions/IdeaProjects-Backup/gradlePractice/src/main/resources/testng.xml.executor": "Run",
+    "TestNG.C:/Users/susheel.mahobia/OneDrive - Gemini Solutions/IdeaProjects-Backup/gradlePractice/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.Test1.Hello.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/susheel.mahobia/Downloads/Serenity-master/Serenity-master/SerenityJunitFive",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice\build\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice" />
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice\src\test\resources" />
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice\src\main\resources" />
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice\src\main\java\org\example" />
+      <recent name="C:\Users\susheel.mahobia\OneDrive - Gemini Solutions\IdeaProjects-Backup\gradlePractice\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle test" />
+      <command value="gradle build --rerun-tasks " />
+      <command value="gradle properties" />
+      <command value="gradle tasks" />
+      <command value="gradle dependencyInsight" />
+      <command value="gradle buildEnvironment" />
+      <command value="gradle --dry-run" />
+      <command value="gradle run" />
+      <command value="gradle shadowJar" />
+      <command value="gradle packageJarWithDependencies" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.gradlePractice [clean]">
+    <configuration name="TCS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCS" />
+      <module name="gradlePractice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TestCaseGenerator" />
+      <module name="gradlePractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseGeneratorNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TestCaseGeneratorNew" />
+      <module name="gradlePractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DELETETests.testDELETE_pet__petId_" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.DELETETests.testDELETE_pet__petId_&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlePractice [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.gradlePractice [clean]" />
+        <item itemvalue="Application.TestCaseGenerator" />
+        <item itemvalue="Gradle.DELETETests.testDELETE_pet__petId_" />
+        <item itemvalue="Application.TCS (1)" />
+        <item itemvalue="Application.TestCaseGeneratorNew" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3598b4e2-97ed-4743-a3c2-7566150f4a68" name="Changes" comment="" />
+      <created>1723877153887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723877153887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/TestCaseGeneratorNew.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/TestCaseGeneratorNew.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

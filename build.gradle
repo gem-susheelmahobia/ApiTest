@@ -1,0 +1,79 @@
+plugins {
+    id 'java'
+//    id 'com.github.johnrengelman.shadow' version '8.1.0'
+//    id 'maven-publish'i
+}
+
+group = 'org.example'
+version = '3.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+task testinggg{
+    println('Helloooww')
+}
+sourceSets {
+    main {
+        runtimeClasspath += sourceSets.test.output
+    }
+}
+
+
+dependencies {
+
+
+    implementation 'org.testng:testng:7.10.2'
+    implementation 'org.javassist:javassist:3.29.0-GA'
+
+//    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    implementation group: 'io.swagger.parser.v3', name: 'swagger-parser', version: '2.1.22'
+    implementation group: 'io.rest-assured', name: 'rest-assured', version: '5.5.0'
+    // https://mvnrepository.com/artifact/com.github.javaparser/javaparser-core
+    implementation group: 'com.github.javaparser', name: 'javaparser-core', version: '3.26.2'
+
+    implementation 'com.squareup:javapoet:1.13.0'
+
+}
+
+//task runTests(type: JavaExec) {
+//    classpath = sourceSets.test.runtimeClasspath
+//    main = 'org.testng.TestNG'
+//    args = ['src/main/resources/testng.xml']
+//}
+
+test {
+  useTestNG()
+
+}
+//jar {
+//    manifest {
+//        attributes(
+//                'Main-Class': 'org.example.Main1' // Replace with your main class
+//        )
+//    }
+//}
+//shadowJar {
+//    archiveBaseName.set('yo') // Set your JAR base name
+//    archiveClassifier.set('all') // Optional: Change this if you want a different name for the jar file
+//    archiveVersion.set('2.0') // Optional: Set the version of the JAR file
+//    manifest {
+//        attributes(
+//                'Main-Class': 'org.example.Main1' // Replace with your main class
+//        )
+//    }
+//}
+//jar {
+//    enabled = false // Disable the default JAR task if you're using shadowJar
+//}
+//publishing {
+//    publications {
+//        mavenJava(MavenPublication) {
+//            from components.java
+//        }
+//    }
+//    repositories {
+//        mavenLocal() // Publish to the local Maven repository
+//    }
+//}
